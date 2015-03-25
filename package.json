@@ -1,17 +1,17 @@
 {
-  "name": "iedriver",
+  "name": "iedriver optional_dependency",
   "version": "2.1.1",
   "keywords": [
     "iedriver",
     "iedriverserver",
     "selenium"
   ],
-  "description": "IEDriver for Selenium",
+  "description": "IEDriver for Selenium, mac installation prevented",
   "homepage": "https://github.com/DamianS1987/node-iedriver.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/DamianS1987/node-iedriver.git"
-    
+
   },
   "licenses": [
     {
