@@ -19,11 +19,6 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   ],
-  "author": {
-    "name": "Barrett Sonntag",
-    "email": "barrett@sosuke.com",
-    "url": "http://www.sosuke.com"
-  },
   "main": "lib/iedriver",
   "bin": {
     "iedriver": "./bin/iedriver"
