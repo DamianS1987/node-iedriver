@@ -10,8 +10,7 @@
   "homepage": "https://github.com/DamianS1987/node-iedriver.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DamianS1987/node-iedriver.git"
-
+    "url": "git://github.com/DamianS1987/node-iedriver.git"
   },
   "licenses": [
     {
