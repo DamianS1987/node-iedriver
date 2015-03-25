@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git://github.com/DamianS1987/node-iedriver.git"
   },
+  "os": ["!osx"],
   "licenses": [
     {
       "type": "Apache 2.0",
