@@ -7,10 +7,11 @@
     "selenium"
   ],
   "description": "IEDriver for Selenium",
-  "homepage": "https://github.com/barretts/node-iedriver",
+  "homepage": "https://github.com/DamianS1987/node-iedriver.git",
   "repository": {
     "type": "git",
-    "url": "git://github.com/barretts/node-iedriver.git"
+    "url": "https://github.com/DamianS1987/node-iedriver.git"
+    
   },
   "licenses": [
     {
