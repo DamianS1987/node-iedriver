@@ -1,4 +1,4 @@
-{
+
   "name": "iedriver_optional_dependency",
   "version": "2.1.1",
   "keywords": [
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git://github.com/DamianS1987/node-iedriver.git"
   },
-  "os": ["win32", "win64"],
+  "os": ["!linux","!darwin","win32", "win64"],
   "licenses": [
     {
       "type": "Apache 2.0",
