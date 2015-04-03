@@ -20,7 +20,7 @@ var platform = process.platform
 
 if (platform !== 'win32') {
   console.log('IEDriverServer only works on Windows:', process.platform, process.arch)
-  process.exit(1)
+  process.exit()
 }
 
 downloadUrl = util.format(downloadUrl, helper.version, helper.version);
