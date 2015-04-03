@@ -6,7 +6,7 @@
     "iedriverserver",
     "selenium"
   ],
-  "description": "IEDriver for Selenium, mac installation prevented",
+  "description": "IEDriver for Selenium, mac installation possible but exits the process without any errors.",
   "homepage": "https://github.com/DamianS1987/node-iedriver.git",
   "repository": {
     "type": "git",
