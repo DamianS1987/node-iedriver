@@ -31,7 +31,7 @@ npmconf.load(function(err, conf) {
   if (err) {
     console.log('Error loading npm config')
     console.error(err)
-    process.exit(1)
+    process.exit()
     return
   }
 
